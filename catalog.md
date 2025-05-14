@@ -6,7 +6,7 @@
 
 [Computer Science](computerscience.md) - Department chair: <20eddibae> 
 
-[Geography](geography.md) - Department chair: <github username>
+[Engineering](engineering.md) - Department chair: neo-cai
 
 [History](history.md) - Department chair: <github username>
 
